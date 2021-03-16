@@ -6,7 +6,7 @@ My main area of interest right now in software development is game development. 
 
 [![RiscadoA's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiscadoA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiscadoA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiscadoA&layout=compact&hide=cmake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RiscadoA/RiscadoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
