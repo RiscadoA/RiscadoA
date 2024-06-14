@@ -4,7 +4,7 @@ I’m Ricardo Antunes, currently a student of Computer Science and Engineering a
 
 My main area of interest in software engineering was initially game development - I learned a lot writing my own game engines during the final years of high school. Today, I'm doing a masters on distributed systems and cyber security.
 
-Although I'm not pursuing studies in game development, I still find it really interesting and fun! I'm currently leading the [**CUBOS.**](https://github.com/GameDevTecnico/cubos) team, and our goal is to develop an open-source ECS based voxel game engine.
+Although I'm not pursuing studies in game development, I still find it really interesting and fun! I'm currently leading the [**Cubos**](https://github.com/GameDevTecnico/cubos) team, and our goal is to develop an open-source ECS based voxel game engine.
 
 Overall, my main interests are:
 - Distributed Systems
