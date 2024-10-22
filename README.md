@@ -7,8 +7,9 @@ My main area of interest in software engineering was initially game development 
 Although I'm not pursuing studies in game development, I still find it really interesting and fun! I'm currently leading the [**Cubos**](https://github.com/GameDevTecnico/cubos) team, and our goal is to develop an open-source ECS based voxel game engine.
 
 Overall, my main interests are:
+- Proof Assistants and Type Theory
+- Functional Programming
 - Distributed Systems
-- Databases
 - Compilers
 - Game Engine Development
 
